@@ -3,7 +3,7 @@
    [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michel_crvg/)   [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-de-melo-a49826294/)
 
 
-[![graph](https://github-readme-stats.vercel.app/api?username=gl-dias&show_icons=true&theme=dark)](https://github.com/MichelMeloG/github-readme-stats)
+[![graph](https://github-readme-stats.vercel.app/api?username=MichelMeloG&show_icons=true&theme=dark)](https://github.com/MichelMeloG/github-readme-stats)
 
 ### Technologies💻:
 
@@ -19,4 +19,4 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gl-dias&theme=dark)](https://github.com/MichelMeloG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelMeloG&theme=dark)](https://github.com/MichelMeloG/github-readme-stats)
